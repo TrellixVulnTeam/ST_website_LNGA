@@ -1,0 +1,9 @@
+{
+    "editor.wordWrap": "on",
+    "json.schemas": [
+    
+    ],
+    "editor.suggest.showStatusBar": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.suggest.showCustomcolors": true
+}
